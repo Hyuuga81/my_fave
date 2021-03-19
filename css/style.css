@@ -1,0 +1,19 @@
+body {
+    background-color: #b6b6f8;
+    color: #ffffff;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+    font-size: 1em;
+}
+
+.content {
+    width: 90%;
+}
+
+h2 {
+    font-size: 2.5em;
+    padding-bottom: 50px;
+}
